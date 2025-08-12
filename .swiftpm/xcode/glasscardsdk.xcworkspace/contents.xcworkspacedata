@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:../.."
+      name = "GlassCardSDK">
+      <FileRef
+         location = "group:Package.swift">
+      </FileRef>
+      <Group
+         location = "group:Sources"
+         name = "Sources">
+         <FileRef
+            location = "absolute:/Users/emreyavuz/Desktop/GlassCard/GlassCard.xcframework">
+         </FileRef>
+         <Group
+            location = "group:GlassCardSDK"
+            name = "GlassCardSDK">
+            <FileRef
+               location = "group:GlassCardSDK.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
