@@ -14,4 +14,20 @@ import _SwiftConcurrencyShims
   }
   public typealias Body = @_opaqueReturnTypeOf("$s9GlassCard0A10EffectViewV4bodyQrvp", 0) __<Content>
 }
+@_Concurrency.MainActor @preconcurrency public struct GlassCardView<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(cornerRadius: CoreFoundation.CGFloat = 20, opacity: CoreFoundation.CGFloat = 0.15, padding: SwiftUICore.EdgeInsets = EdgeInsets(top: 20, leading: 20, bottom: 20, trailing: 20), @SwiftUICore.ViewBuilder content: () -> Content)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9GlassCard0aB4ViewV4bodyQrvp", 0) __<Content>
+}
+@_Concurrency.MainActor @preconcurrency public struct GlassButton : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(_ title: Swift.String, icon: Swift.String? = nil, cornerRadius: CoreFoundation.CGFloat = 16, opacity: CoreFoundation.CGFloat = 0.15, horizontalPadding: CoreFoundation.CGFloat = 24, verticalPadding: CoreFoundation.CGFloat = 12, action: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9GlassCard0A6ButtonV4bodyQrvp", 0) __
+}
 extension GlassCard.GlassEffectView : Swift.Sendable {}
+extension GlassCard.GlassCardView : Swift.Sendable {}
+extension GlassCard.GlassButton : Swift.Sendable {}

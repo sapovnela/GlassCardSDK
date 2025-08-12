@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vZ5uQqMigkjY/wNl2kSIt7UTK0w=
+		QyC8cjfhgjoi5OaZGKe70e8lJmk=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ze2M6hxV3uWpKhmfm+CIvOHyPmA=
+		uHNXsQ/CvmzLteND8XihJ2n2nS8=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ze2M6hxV3uWpKhmfm+CIvOHyPmA=
+		uHNXsQ/CvmzLteND8XihJ2n2nS8=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7LcPTB1F9GiNfO+N4q7h82irwkk=
+		wZ8UriFA/QhklcS0Y9Vt93PxKB8=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vZ5uQqMigkjY/wNl2kSIt7UTK0w=
+		QyC8cjfhgjoi5OaZGKe70e8lJmk=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5MYXftemhjPw2F/VjNW2T1TSBkI=
+		FPegKrRIjlrsjt508FT/KFVLlCQ=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5MYXftemhjPw2F/VjNW2T1TSBkI=
+		FPegKrRIjlrsjt508FT/KFVLlCQ=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M1qUw5g4cjM6B98TdrBTIpl2Iqo=
+		zgu7+grLniu3pGYntMa7EItgd+Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5rtuIS3BkEp053k3LKJMTJAuuqpKuoLmhbLjwX5DtMY=
+			KTyUQM9z/HN5+0It1Fx8IP2sYLmBaRUFlcZG9eZc8YE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M6x5qexqUx4zmojDL00HddU4MmuRir5W/aqVKA5ksRY=
+			urmKa3hnQ4B0tkFofHF/GgRh55xYnaT4d2pr9XAGwuE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -76,28 +76,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M6x5qexqUx4zmojDL00HddU4MmuRir5W/aqVKA5ksRY=
+			urmKa3hnQ4B0tkFofHF/GgRh55xYnaT4d2pr9XAGwuE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pODg/c327jgygx06zR1il+LxTxL757zjSl5CMjzrLV0=
+			7M2CDMlvVH2jzW3rmBdppqDG1b19VYgX265F2yGYFIk=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5rtuIS3BkEp053k3LKJMTJAuuqpKuoLmhbLjwX5DtMY=
+			KTyUQM9z/HN5+0It1Fx8IP2sYLmBaRUFlcZG9eZc8YE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C+TZNov7qQVevThye/VHIdNq3wguYlyxhQcH5jh4MVw=
+			5dAZxflqYdLZ8WUBspxzEx5Y/KTM2xltqYcrr1ro79E=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C+TZNov7qQVevThye/VHIdNq3wguYlyxhQcH5jh4MVw=
+			5dAZxflqYdLZ8WUBspxzEx5Y/KTM2xltqYcrr1ro79E=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rimHE6eyDTBYWWWlkjBhPTt9hxQmEKxU4WaBzlbtZtM=
+			6UuY1XnF6h2WAYWmaa7FCD327WnoiaE2BRsiIbn4QG8=
 			</data>
 		</dict>
 	</dict>
