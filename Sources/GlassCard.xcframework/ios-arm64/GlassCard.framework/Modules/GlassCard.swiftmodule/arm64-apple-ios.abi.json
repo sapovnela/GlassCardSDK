@@ -1,0 +1,468 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "GlassCard",
+    "printedName": "GlassCard",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "GlassCard",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GlassEffectView",
+        "printedName": "GlassEffectView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(cornerRadius:opacity:blurRadius:borderWidth:shadowRadius:shadowOpacity:content:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GlassEffectView",
+                "printedName": "GlassCard.GlassEffectView<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:9GlassCard0A10EffectViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> τ_0_0",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "typeAttributes": [
+                  "noescape"
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9GlassCard0A10EffectViewV12cornerRadius7opacity04blurF011borderWidth06shadowF00K7Opacity7contentACyxG14CoreFoundation7CGFloatV_SdA3NSdxyXEtcfc",
+            "mangledName": "$s9GlassCard0A10EffectViewV12cornerRadius7opacity04blurF011borderWidth06shadowF00K7Opacity7contentACyxG12CoreGraphics7CGFloatV_SdA3NSdxyXEtcfc",
+            "moduleName": "GlassCard",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9GlassCard0A10EffectViewV4bodyQrvp",
+            "mangledName": "$s9GlassCard0A10EffectViewV4bodyQrvp",
+            "moduleName": "GlassCard",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9GlassCard0A10EffectViewV4bodyQrvg",
+                "mangledName": "$s9GlassCard0A10EffectViewV4bodyQrvg",
+                "moduleName": "GlassCard",
+                "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+                "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9GlassCard0A10EffectViewV",
+        "mangledName": "$s9GlassCard0A10EffectViewV",
+        "moduleName": "GlassCard",
+        "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+        "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 211,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 240,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 274,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 308,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 344,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 379,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 437,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 467,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 502,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 537,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 610,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3052,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 3082,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3133,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3146,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3158,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3172,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3223,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 3254,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3306,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3319,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3331,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3345,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3888,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 3918,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3960,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3998,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4102,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "FloatLiteral",
+      "offset": 4133,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4176,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4215,
+      "length": 2,
+      "value": "12"
+    }
+  ]
+}

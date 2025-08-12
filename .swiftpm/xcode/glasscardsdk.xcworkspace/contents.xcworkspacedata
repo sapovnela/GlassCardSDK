@@ -10,9 +10,6 @@
       <Group
          location = "group:Sources"
          name = "Sources">
-         <FileRef
-            location = "absolute:/Users/emreyavuz/Desktop/GlassCard/GlassCard.xcframework">
-         </FileRef>
          <Group
             location = "group:GlassCardSDK"
             name = "GlassCardSDK">
@@ -20,6 +17,9 @@
                location = "group:GlassCardSDK.swift">
             </FileRef>
          </Group>
+         <FileRef
+            location = "group:GlassCard.xcframework">
+         </FileRef>
       </Group>
    </Group>
 </Workspace>
