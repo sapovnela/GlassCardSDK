@@ -22,7 +22,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(cornerRadius:opacity:blurRadius:borderWidth:shadowRadius:shadowOpacity:content:)",
+            "printedName": "init(cornerRadius:blurRadius:borderWidth:shadowRadius:shadowOpacity:content:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -43,13 +43,6 @@
                 "printedName": "CoreGraphics.CGFloat",
                 "hasDefaultArg": true,
                 "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "hasDefaultArg": true,
-                "usr": "s:Sd"
               },
               {
                 "kind": "TypeNominal",
@@ -101,8 +94,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9GlassCard0A10EffectViewV12cornerRadius7opacity04blurF011borderWidth06shadowF00K7Opacity7contentACyxG14CoreFoundation7CGFloatV_SdA3NSdxyXEtcfc",
-            "mangledName": "$s9GlassCard0A10EffectViewV12cornerRadius7opacity04blurF011borderWidth06shadowF00K7Opacity7contentACyxG12CoreGraphics7CGFloatV_SdA3NSdxyXEtcfc",
+            "usr": "s:9GlassCard0A10EffectViewV12cornerRadius04blurF011borderWidth06shadowF00J7Opacity7contentACyxG14CoreFoundation7CGFloatV_A3MSdxyXEtcfc",
+            "mangledName": "$s9GlassCard0A10EffectViewV12cornerRadius04blurF011borderWidth06shadowF00J7Opacity7contentACyxG12CoreGraphics7CGFloatV_A3MSdxyXEtcfc",
             "moduleName": "GlassCard",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -244,7 +237,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(cornerRadius:opacity:padding:content:)",
+            "printedName": "init(cornerRadius:padding:content:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -258,13 +251,6 @@
                   }
                 ],
                 "usr": "s:9GlassCard0aB4ViewV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
               },
               {
                 "kind": "TypeNominal",
@@ -302,8 +288,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9GlassCard0aB4ViewV12cornerRadius7opacity7padding7contentACyxG14CoreFoundation7CGFloatV_AK7SwiftUI10EdgeInsetsVxyXEtcfc",
-            "mangledName": "$s9GlassCard0aB4ViewV12cornerRadius7opacity7padding7contentACyxG12CoreGraphics7CGFloatV_AK7SwiftUI10EdgeInsetsVxyXEtcfc",
+            "usr": "s:9GlassCard0aB4ViewV12cornerRadius7padding7contentACyxG14CoreFoundation7CGFloatV_7SwiftUI10EdgeInsetsVxyXEtcfc",
+            "mangledName": "$s9GlassCard0aB4ViewV12cornerRadius7padding7contentACyxG12CoreGraphics7CGFloatV_7SwiftUI10EdgeInsetsVxyXEtcfc",
             "moduleName": "GlassCard",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -446,7 +432,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(_:icon:cornerRadius:opacity:horizontalPadding:verticalPadding:action:)",
+            "printedName": "init(_:icon:cornerRadius:horizontalPadding:verticalPadding:action:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -497,13 +483,6 @@
                 "usr": "s:14CoreFoundation7CGFloatV"
               },
               {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "() -> ()",
@@ -522,8 +501,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9GlassCard0A6ButtonV_4icon12cornerRadius7opacity17horizontalPadding08verticalI06actionACSS_SSSg14CoreFoundation7CGFloatVA3Myyctcfc",
-            "mangledName": "$s9GlassCard0A6ButtonV_4icon12cornerRadius7opacity17horizontalPadding08verticalI06actionACSS_SSSg12CoreGraphics7CGFloatVA3Myyctcfc",
+            "usr": "s:9GlassCard0A6ButtonV_4icon12cornerRadius17horizontalPadding08verticalH06actionACSS_SSSg14CoreFoundation7CGFloatVA2Lyyctcfc",
+            "mangledName": "$s9GlassCard0A6ButtonV_4icon12cornerRadius17horizontalPadding08verticalH06actionACSS_SSSg12CoreGraphics7CGFloatVA2Lyyctcfc",
             "moduleName": "GlassCard",
             "declAttributes": [
               "Preconcurrency",
@@ -665,218 +644,183 @@
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 240,
-      "length": 3,
-      "value": "0.1"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 274,
+      "offset": 244,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 308,
+      "offset": 278,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 344,
+      "offset": 314,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 379,
+      "offset": 349,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 437,
+      "offset": 407,
       "length": 2,
       "value": "20"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 467,
-      "length": 3,
-      "value": "0.1"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 502,
+      "offset": 441,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 537,
+      "offset": 476,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 574,
+      "offset": 513,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 610,
+      "offset": 549,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3063,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 3093,
-      "length": 4,
-      "value": "0.15"
+      "kind": "BooleanLiteral",
+      "offset": 2754,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3144,
+      "offset": 3553,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3157,
+      "offset": 3602,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3169,
+      "offset": 3615,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3183,
+      "offset": 3627,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3241,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 3272,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3324,
+      "offset": 3641,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3337,
+      "offset": 3699,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3349,
+      "offset": 3749,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3363,
+      "offset": 3762,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3920,
+      "offset": 3774,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3788,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4296,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 3950,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3992,
+      "offset": 4336,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4030,
+      "offset": 4374,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4141,
+      "offset": 4485,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
-      "kind": "FloatLiteral",
-      "offset": 4172,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4215,
+      "offset": 4526,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4254,
+      "offset": 4565,
       "length": 2,
       "value": "12"
     }
