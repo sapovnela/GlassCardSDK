@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
-// swift-module-flags: -target x86_64-apple-ios18.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name GlassCard
+// swift-module-flags: -target x86_64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name GlassCard
 // swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
 import Swift
 import SwiftUI
@@ -8,7 +8,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_Concurrency.MainActor @preconcurrency public struct GlassEffectView<Content> : SwiftUICore.View where Content : SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public init(cornerRadius: CoreFoundation.CGFloat = 20, blurRadius: CoreFoundation.CGFloat = 20, borderWidth: CoreFoundation.CGFloat = 0.5, shadowRadius: CoreFoundation.CGFloat = 10, shadowOpacity: Swift.Double = 0.1, @SwiftUICore.ViewBuilder content: () -> Content)
+  @_Concurrency.MainActor @preconcurrency public init(cornerRadius: CoreFoundation.CGFloat = 20, blurRadius: CoreFoundation.CGFloat = 20, opaque: Swift.Bool = true, borderWidth: CoreFoundation.CGFloat = 0.5, shadowRadius: CoreFoundation.CGFloat = 10, shadowOpacity: Swift.Double = 0.1, removeAllFilters: Swift.Bool = false, @SwiftUICore.ViewBuilder content: () -> Content)
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }

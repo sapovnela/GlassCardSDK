@@ -6,47 +6,47 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		pHgWda6nxRSia9gjSEEBOOQLT5s=
+		+D60PfSj5EpCbSTuiYP1kbyvWRE=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		IFg+kD7yQBahEnbym2QFjfaMHQY=
+		rCsyQu1Yx3imlwmcYRTihczDzKI=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OBsHUwDXMnvFQizOmhRz610nQyA=
+		WSn/qrgqHnvHq8z8vjwdnykOYno=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kZ7DN9HRHwFEm5MN6rvqwqyXqbs=
+		wF1vhlh5l4oTEJE6Jayq6+dSRxY=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OBsHUwDXMnvFQizOmhRz610nQyA=
+		WSn/qrgqHnvHq8z8vjwdnykOYno=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NZTKuB2FYQgGyPXvniayXub6kGg=
+		kEEJVHfcYd/JzCU0/hlk9ZTAVR8=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IFg+kD7yQBahEnbym2QFjfaMHQY=
+		rCsyQu1Yx3imlwmcYRTihczDzKI=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RMJ64zYc7NethPf5pr7mU2rz+xw=
+		vR6Qv0vMk1c05KIxZalaWTlghUg=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		urJHFuH33P+5rnlP24ZOQnqGKro=
+		DLZao+yzUA8IDABHF6oVBSoZv2U=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RMJ64zYc7NethPf5pr7mU2rz+xw=
+		vR6Qv0vMk1c05KIxZalaWTlghUg=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ct683fGy3IyhyOBY/d/fufjnWS0=
+		pt2ZjpJCDyMzL4Xx8Xy5N/JleW0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,70 +55,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0ANl4n9VDPxL+ZIQ0mAYNeSVPC5zWDcjw9ErQy6SJ4=
+			hBbj8PBPECMawKgFWqoPcP2pSnlDUtynY19BxaiHxsQ=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pdB4FegvqevLEYLjn1nW0HbNJADBDCl8V/eqVjNHiKM=
+			wLGuKUXttFPHMeB7lWZdQpWz7x1UP+LAs7os/X75UyE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Enat5WWja7fDr2EOcUE1SLZKlvFmDSHcwJ/ZXQDwbUA=
+			36Daq8GDESXFZao20J8aSNwHv5q4VcxcthQhehRx3aY=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pdB4FegvqevLEYLjn1nW0HbNJADBDCl8V/eqVjNHiKM=
+			wLGuKUXttFPHMeB7lWZdQpWz7x1UP+LAs7os/X75UyE=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iRls3TIdKJhUvdJ632nhQI+LC0HmKYGYjaTicljyonA=
+			u+GzQ+z/iSxiH/ys/CW7R91+2q+GL7OvGTkuyy9pmC8=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0ANl4n9VDPxL+ZIQ0mAYNeSVPC5zWDcjw9ErQy6SJ4=
+			hBbj8PBPECMawKgFWqoPcP2pSnlDUtynY19BxaiHxsQ=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xEXgYvxRxpOlF/4ZellHHhIbJOyuWUYWHx6R2wr4gEA=
+			ve9A8i1Du6dbTF3RyJOFbCOPgOyO9i38X4L6WZX3j9M=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qqvm7EcS3Rov5gv7336yXC1o2+Lz0JskNyFPtd3ScXM=
+			/qpeHkpwZV1Zpwz7TYkKlQ4meQIjouqDxxKmnvqbUR4=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xEXgYvxRxpOlF/4ZellHHhIbJOyuWUYWHx6R2wr4gEA=
+			ve9A8i1Du6dbTF3RyJOFbCOPgOyO9i38X4L6WZX3j9M=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iGTVoWimK8GkNf5/ZH+3hUlWQ/+PH4v6dh8S5CICOWw=
+			mF1QQCpQ7FGpSoSBZDJy1aejaboEwPWKGsoHP7eve80=
 			</data>
 		</dict>
 	</dict>

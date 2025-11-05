@@ -22,7 +22,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(cornerRadius:blurRadius:borderWidth:shadowRadius:shadowOpacity:content:)",
+            "printedName": "init(cornerRadius:blurRadius:opaque:borderWidth:shadowRadius:shadowOpacity:removeAllFilters:content:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -53,6 +53,13 @@
               },
               {
                 "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
                 "name": "CGFloat",
                 "printedName": "CoreGraphics.CGFloat",
                 "hasDefaultArg": true,
@@ -71,6 +78,13 @@
                 "printedName": "Swift.Double",
                 "hasDefaultArg": true,
                 "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeFunc",
@@ -94,8 +108,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9GlassCard0A10EffectViewV12cornerRadius04blurF011borderWidth06shadowF00J7Opacity7contentACyxG14CoreFoundation7CGFloatV_A3MSdxyXEtcfc",
-            "mangledName": "$s9GlassCard0A10EffectViewV12cornerRadius04blurF011borderWidth06shadowF00J7Opacity7contentACyxG12CoreGraphics7CGFloatV_A3MSdxyXEtcfc",
+            "usr": "s:9GlassCard0A10EffectViewV12cornerRadius04blurF06opaque11borderWidth06shadowF00K7Opacity16removeAllFilters7contentACyxG14CoreFoundation7CGFloatV_AOSbA2OSdSbxyXEtcfc",
+            "mangledName": "$s9GlassCard0A10EffectViewV12cornerRadius04blurF06opaque11borderWidth06shadowF00K7Opacity16removeAllFilters7contentACyxG12CoreGraphics7CGFloatV_AOSbA2OSdSbxyXEtcfc",
             "moduleName": "GlassCard",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -672,155 +686,183 @@
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 386,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 415,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 407,
+      "offset": 474,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 441,
+      "offset": 508,
       "length": 2,
       "value": "20"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 535,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 476,
+      "offset": 572,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 513,
+      "offset": 609,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "FloatLiteral",
-      "offset": 549,
+      "offset": 645,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 2754,
+      "offset": 683,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3553,
+      "offset": 4202,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3602,
+      "offset": 4251,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3615,
+      "offset": 4264,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3627,
+      "offset": 4276,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3641,
+      "offset": 4290,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3699,
+      "offset": 4348,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3749,
+      "offset": 4398,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3762,
+      "offset": 4411,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3774,
+      "offset": 4423,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 3788,
+      "offset": 4437,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4296,
+      "offset": 4945,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4336,
+      "offset": 4985,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4374,
+      "offset": 5023,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4485,
+      "offset": 5134,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4526,
+      "offset": 5175,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emreyavuz\/Desktop\/GlassCard\/GlassCard\/GlassCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4565,
+      "offset": 5214,
       "length": 2,
       "value": "12"
     }

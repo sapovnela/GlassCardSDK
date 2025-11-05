@@ -6,27 +6,27 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		PeJchROTWo2IiXZk6puauRAtWPo=
+		xc86z1+TqnJRXeiuDOQdwFy4X/E=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		IFg+kD7yQBahEnbym2QFjfaMHQY=
+		rCsyQu1Yx3imlwmcYRTihczDzKI=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		rz67vEESSMGLydiGSjBhHdLe6lk=
+		NrN97v5nvm4GYe0O+jMfyQ7k30A=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		u1SwAaAgrJ+z3w891KJrTjH8TR0=
+		y9loLSDfC1h81yrryKgNu+VfiMk=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		rz67vEESSMGLydiGSjBhHdLe6lk=
+		NrN97v5nvm4GYe0O+jMfyQ7k30A=
 		</data>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		j4uytReJxTw/Hcl2D0wn1vW3QOs=
+		HJfM7aA0OD1MPL+GsqZTL5WKioU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,35 +35,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0ANl4n9VDPxL+ZIQ0mAYNeSVPC5zWDcjw9ErQy6SJ4=
+			hBbj8PBPECMawKgFWqoPcP2pSnlDUtynY19BxaiHxsQ=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zXfGTz6Ba0wCETzUc4oOYGw4qtat5Nx9KhUSWZ3wwQ=
+			YjzgW0LmkYpdswaRNb1K3SpWkO4FU4PlmPFtGg9h+Vg=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H/UVP/quGYz2mZjEdAwmlMK/aqBk4p39kQRinPyNlpA=
+			YCda5nEo/dUOTQmHGden4B4BVcnisU5HlC3cmosqFMk=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zXfGTz6Ba0wCETzUc4oOYGw4qtat5Nx9KhUSWZ3wwQ=
+			YjzgW0LmkYpdswaRNb1K3SpWkO4FU4PlmPFtGg9h+Vg=
 			</data>
 		</dict>
 		<key>Modules/GlassCard.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCfSdDoLFOVI21QCriqIjF7lPSy9NsXxSHgK9/bNZKQ=
+			e4lGsLdO+l+f9dOkFc1uPtvVc6rJCVEO5Bb03oh8X6M=
 			</data>
 		</dict>
 	</dict>
