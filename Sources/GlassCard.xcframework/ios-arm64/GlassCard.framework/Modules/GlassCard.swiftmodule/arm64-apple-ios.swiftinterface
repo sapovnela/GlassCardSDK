@@ -16,7 +16,7 @@ import _SwiftConcurrencyShims
   public typealias Body = @_opaqueReturnTypeOf("$s9GlassCard0A10EffectViewV4bodyQrvp", 0) __<Content>
 }
 @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class SwiftUIContainerView<Content> : UIKit.UIView where Content : SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor @preconcurrency public init(rootView: Content)
   @_Concurrency.MainActor @preconcurrency public func update(_ view: Content)
   @objc deinit
 }

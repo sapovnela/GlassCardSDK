@@ -258,51 +258,37 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(coder:)",
+            "printedName": "init(rootView:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "GlassCard.SwiftUIContainerView<τ_0_0>?",
+                "name": "SwiftUIContainerView",
+                "printedName": "GlassCard.SwiftUIContainerView<τ_0_0>",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "SwiftUIContainerView",
-                    "printedName": "GlassCard.SwiftUIContainerView<τ_0_0>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "GenericTypeParam",
-                        "printedName": "τ_0_0"
-                      }
-                    ],
-                    "usr": "s:9GlassCard20SwiftUIContainerViewC"
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
                   }
                 ],
-                "usr": "s:Sq"
+                "usr": "s:9GlassCard20SwiftUIContainerViewC"
               },
               {
                 "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9GlassCard20SwiftUIContainerViewC5coderACyxGSgSo7NSCoderC_tcfc",
-            "mangledName": "$s9GlassCard20SwiftUIContainerViewC5coderACyxGSgSo7NSCoderC_tcfc",
+            "usr": "s:9GlassCard20SwiftUIContainerViewC04rootE0ACyxGx_tcfc",
+            "mangledName": "$s9GlassCard20SwiftUIContainerViewC04rootE0ACyxGx_tcfc",
             "moduleName": "GlassCard",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
             "declAttributes": [
-              "Dynamic",
-              "ObjC",
               "Preconcurrency",
               "Custom",
-              "AccessControl",
-              "Required"
+              "AccessControl"
             ],
             "init_kind": "Designated"
           },
